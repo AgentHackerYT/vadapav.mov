@@ -1,0 +1,25 @@
+{
+  "name": "vadapav.mov",
+  "version": "1.0.0",
+  "description": "The Unofficial NodeJS Wrapper for vadapav.mov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jenil",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "types": "./index.d.ts",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgentHackerYT/vadapav.mov.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AgentHackerYT/vadapav.mov/issues"
+  },
+  "homepage": "https://github.com/AgentHackerYT/vadapav.mov#readme"
+}
