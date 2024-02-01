@@ -1,0 +1,6 @@
+{
+"baseDir":"https://vadapav.mov/api/d/",
+"search": "https://vadapav.mov/api/s/",
+"listContentsOfDir":"https://vadapav.mov/api/l/",
+"downloadMovie":"https://vadapav.mov/f/"
+}
